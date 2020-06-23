@@ -1,0 +1,8 @@
+### General ###
+Cached Theme.pak
+build/
+node_modules/
+
+### macOS ###
+.DS_Store
+

@@ -1,0 +1,9 @@
+{
+  "name": "easy-purple-incognito-mode",
+  "description": "Incognito theme that makes easier to identify if you are navigating in incognito mode or not.",
+  "dependencies": {
+    "del": "^5.1.0",
+    "gulp": "^4.0.2",
+    "gulp-zip": "^5.0.1"
+  }
+}
