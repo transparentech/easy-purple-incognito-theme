@@ -1,20 +1,22 @@
 {
-  "version": "1.0.0",
+  "version": "1.0.1",
   "manifest_version": 2,
-  "name": "Easy Purple Incognito Mode",
+  "name": "Easy Purple Incognito Mode 2",
   "description": "Incognito theme that makes easier to identify if you are navigating in incognito mode or not.",
   "icons": {
     "128": "icon128.png"
   },
   "theme": {
     "colors": {
-      "frame": [25, 25, 25],
+      "frame": [15, 15, 15],
+      "frame_inactive": [42, 42, 42],
       "bookmark_text": [232, 234, 237],
-      "toolbar": [46, 47, 51],
+      "toolbar": [60, 60, 60],
       "toolbar_button_icon": [239, 240, 241],
-      "omnibox_background": [25, 25, 25],
-      "ntp_background": [46, 47, 51],
-      "frame_incognito": [103, 58, 183]
+      "omnibox_background": [15, 15, 15],
+      "ntp_background": [60, 60, 60],
+      "frame_incognito": [103, 58, 183],
+      "frame_incognito_inactive": [123, 108, 156]
     }
   }
 }
